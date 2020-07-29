@@ -25,6 +25,27 @@
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'wp-bootstrap-4' ); ?></a>
 
 	<header id="masthead" class="site-header <?php if ( get_theme_mod( 'sticky_header', 0 ) ) : echo 'sticky-top'; endif; ?>">
+	<div class="l-region l-region--alert">
+    <div class="panel-pane pane-views pane-alert">
+            <div class="view view-alert view-id-alert view-display-id-block view-dom-id-c98a14c8f888925386d0f7754e3b7db3">
+            <div class="view-header">
+      <style>
+<!--/*--><![CDATA[/* ><!--*/
+@media (min-width: 64em){.alert__text {    margin-top: 5px;}}
+/*--><!]]>*/
+</style>    </div>
+  
+  
+  
+
+<div class="alert" style="background:#bfdeee;color:#000000">
+<p><a href="https://tulane.edu/covid-19/communications" target="_blank"><span class="button"><strong>University COVID-19 Information</strong></span></a> &nbsp;&nbsp; <a href="https://medicine.tulane.edu/plasma-donations-needed" target="_blank"><span class="button"><strong>Plasma Donors Needed</strong></span></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong><a href="https://medicine.tulane.edu/tulane-doctors/medical-center-covid-19" target="_blank">SOM COVID-19 INFO</a></strong>:&nbsp; <a href="https://medicine.tulane.edu/student-covid-19-info" target="_blank"><strong>Students</strong></a>&nbsp; |&nbsp; <a href="https://medicine.tulane.edu/faculty-covid-19-information" target="_blank"><strong>Research&nbsp;</strong></a> |&nbsp; <strong><a href="https://medicine.tulane.edu/bms-student-covid-19-info" target="_blank">BMS Students</a></strong>&nbsp; |&nbsp; <a href="https://medicine.tulane.edu/resident-fellow-covid-19-information" target="_blank"><strong>Residents/Fellows </strong></a>&nbsp; |&nbsp; <a href="https://medicine.tulane.edu/tulane-doctors/covid-19/deans-town-hall" target="_blank"><strong>Dean's Town Hall</strong></a>&nbsp; |&nbsp; <strong><a href="https://medicine.tulane.edu/covid-19/employees-information-guidelines">SOM Employees</a></strong></p>
+<!--<p>Tulane University is closely monitoring developments related to the coronavirus (COVID-19). For more information,&nbsp;<b><a href="https://tulane.edu/emergency" target="_blank" text-decoration:underline="">click here</a></b></p>-->
+</div>        
+
+
+   
 		<nav id="site-navigation" class="main-navigation navbar navbar-expand-lg navbar-dark bg-dark">
 			<?php if( get_theme_mod( 'header_within_container', 0 ) ) : ?><div class="container"><?php endif; ?>
 				<?php the_custom_logo(); ?>
