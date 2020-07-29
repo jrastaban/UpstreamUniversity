@@ -79,7 +79,7 @@
 	</header><!-- #masthead -->
 	<div class="alert" style="background:#bfdeee;color:#000000">
 		<p><a href="#" target="_blank"><span class="button"><strong>University COVID-19 Information</strong></span></a> </p>
-		<p>Pantheon University is closely monitoring developments related to the coronavirus (COVID-19). For more information,&nbsp;<b><a href="#" target="_blank" text-decoration:underline="">click here</a></b></p>
-		<p>All classes will be going virtual as of August 27th</p>
+		<p>Pantheon University is closely monitoring developments related to the coronavirus (COVID-19).</p>
+		<p>All classes will be going virtual as of August 27th. For more information,&nbsp;<b><a href="#" target="_blank" text-decoration:underline="">click here</a></b></p>
 	</div>     
 	<div id="content" class="site-content">
